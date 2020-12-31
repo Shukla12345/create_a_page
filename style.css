@@ -1,0 +1,43 @@
+
+.dbox{
+	border: 2px solid red;
+	height: 360px;
+	font-family: arial;
+	background-color:white;
+	padding-left: 6px;
+}
+h1{
+	padding-right: 6px;
+	padding-top: 5px;
+}
+.row{
+	padding-left: 6px;
+}
+.container cbox{
+	padding-left: 10px;
+}
+span{
+	padding-top: -10px: 
+}
+.c1{
+	text-align: left;
+	margin-top: -300px;
+	padding-right: 50px;
+	margin-left: 250px;
+}
+nav img:hover{
+	opacity: 0.9;
+	
+}
+nav img{
+	margin-left: 20px;
+	border:4px solid black;
+    border-radius: 1px;
+}
+.col-sm-3 dbox{
+	padding: auto;
+}
+.c2{
+	font-size: 40px;
+
+}
